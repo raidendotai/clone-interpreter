@@ -1,0 +1,11 @@
+uuid
+openai
+backoff
+tiktoken
+firebase-admin
+google-cloud-storage
+pydantic
+typing
+modal-client
+ipython
+cryptography
